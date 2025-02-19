@@ -11,9 +11,11 @@
  * @author: XXX (Group YYY)
  */
 
-#include "cs1010.h"
+#include <stdio.h>
 #include <math.h>
 
 int main() 
 {
+    printf("Hello Word\n");
+    return 0;
 }

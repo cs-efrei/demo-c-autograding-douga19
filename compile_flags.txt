@@ -1,5 +1,4 @@
 -g
--I/home/course/cs1010/include
 -Wall
 -Wbad-function-cast
 -Wconversion

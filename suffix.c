@@ -7,7 +7,7 @@
  * @file: suffix.c
  * @author: XXX (Group YYY)
  */
-#include "cs1010.h"
+#include <stdio.h>
 
 int main() 
 {

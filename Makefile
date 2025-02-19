@@ -2,9 +2,7 @@
 SHELL := /bin/bash
 FILES=box digits suffix taxi
 CC=clang
-LDLIBS=-lm -lcs1010
-LIB_HOME=~cs1010/lib
-CFLAGS=@compile_flags.txt -L $(LIB_HOME)
+CFLAGS=@compile_flags.txt
 
 all: tidy
 test: $(FILES)
